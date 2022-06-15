@@ -40,3 +40,6 @@ npm run preview
 ```
 
 Checkout the [deployment documentation](https://v3.nuxtjs.org/guide/deploy/presets) for more information.
+=======
+# nuxt3
+basic ussage of Nuxt.js v3
